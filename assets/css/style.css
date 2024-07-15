@@ -1,8 +1,5 @@
 /* Para mobile devices */
 body, * {
-    margin: 0;
-    border: 0;
-    padding: 0;
     font-family: "Playfair Display", serif;
 }
 
@@ -43,7 +40,7 @@ header {
 
 .navbar, #navbarNav, .navbar-collapse, li {
     background: none;
-    margin: 0 40px;
+    margin-left: 30px;
 }
 
 .nav-link {
